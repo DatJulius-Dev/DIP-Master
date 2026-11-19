@@ -1,0 +1,7 @@
+# ==============================================================================
+# HƯỚNG DẪN CẤU HÌNH NGROK AUTHTOKEN
+# ==============================================================================
+# 1. Truy cập đăng ký tài khoản miễn phí: https://dashboard.ngrok.com/signup
+# 2. Sau khi đăng nhập, copy Auth Token tại: https://dashboard.ngrok.com/get-started/your-authtoken
+# 3. Dán Token vào bên dưới (xóa dấu # nếu có): 3LALHyQFMOQkKle82nq2S3nnmm0_2tmqzKnSz1vQJLTKWwnPc
+# ==============================================================================
